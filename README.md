@@ -4,18 +4,18 @@ I'm currently in pre-final year of my undergraduate studies in Computer Science 
 
 ## 🚀 About Me
 
-- 🎓 Final year Computer Science student
-- 💻 Software Developer
-- 🌱 Currently learning [latest technology or language you're learning]
-- 🛠️ Working on [current project or field of interest]
+- 🎓 A Computer Science student
+- 💻 Software Developer , Machine learning Engineer
+- 🌱 Currently learning Mlops with AWS and Machine Learning
+- 🛠️ Working on MINDEASE - A comprehensive platform made for individuals dealing with stress to provide help and a nourishing community to overcome .
 
 ## 🧰 Skills
 
-- **Languages:** Python, Java, C++, JavaScript
+- **Languages:** Python, Java, C++, JavaScript 
 - **Web Development:** HTML, CSS, React, Node.js
 - **Databases:** MySQL, MongoDB
-- **Tools:** Git, Docker
-- **Others:** [Other relevant skills]
+- **Tools:** Git, Docker , AWS
+- **Others:**
 
 ## 📈 GitHub Stats
 
@@ -23,8 +23,9 @@ I'm currently in pre-final year of my undergraduate studies in Computer Science 
 
 ## 📫 How to Reach Me
 
-- LinkedIn: https://www.linkedin.com/in/yourprofile
+- LinkedIn: https://www.linkedin.com/in/muzammil-jsd/
 - Email: muzammiltauqeer0@gmail.com
+- 
 ## 💡 Projects
 
 - **[Project 1 Name](https://github.com/yourusername/project1)**: Brief description of the project.
